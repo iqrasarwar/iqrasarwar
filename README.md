@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible
 - 📢 I Love to read books, teach and motivate my fellows
 
-![](https://komarev.com/ghpvc/?username=iqrasarwar)
+![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
 
 
 ## GitHub Analytics
