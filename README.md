@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Visits)
 </p>
 
 ## GitHub Analytics
