@@ -1,4 +1,4 @@
-# Hello World, I am IQRA SARWAR 👋
+# Hello World, I'm IQRA SARWAR 👋
 
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
@@ -9,7 +9,7 @@
 - 📢 I Love to read books, teach and motivate my fellows
 <br />
 
-<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&label=VISITORS)</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile%20Visitors)</p>
 
 ## GitHub Analytics
 
@@ -29,19 +29,18 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
-     <td align='center' width="190">
+     <td align='center'>
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-
 </tr>
 <tr>
-	<td align='center' width="190">
+	<td align='center'>
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
@@ -52,11 +51,6 @@
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
 </tr>
 </table>
@@ -83,6 +77,9 @@
 </p>
 
 <p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Thanks+For+Visiting;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
-
+  [
+	   ![Typing SVG]
+  		(https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Thanks+For+Visiting;Glad+to+see+you+here!!!)
+  ]
+  (https://git.io/typing-svg)
 </p>
