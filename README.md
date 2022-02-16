@@ -77,4 +77,4 @@
 	<br />
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Thanks+For+Visiting;Glad+to+see+you+here!!!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Thanks+For+Visiting!;Glad+to+see+you+here!)](https://git.io/typing-svg)
