@@ -9,9 +9,8 @@
 - 📢 I Love to read books, teach and motivate my fellows
 <br />
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Visits)
-</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=iqrafatimame&color=blueviolet&label=Profile+Views)</p>
+
 
 ## GitHub Analytics
 
