@@ -1,5 +1,5 @@
 
-# Hello World, I'm IQRA SARWAR 👋
+# Hello World, I'm Iqra Sarwar 👋
 
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
@@ -65,4 +65,4 @@
 	<br />
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Thanks+For+Visiting!;Glad+to+see+you+here!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!+Thanks+For+Visiting!)](https://git.io/typing-svg)
