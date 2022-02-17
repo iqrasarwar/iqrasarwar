@@ -8,9 +8,9 @@
 - 👯 I am looking to collaborate on Web Development Projects
 - 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible
 - 📢 I Love to read books, teach and motivate my fellows
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
-
+</p>
 
 ## GitHub Analytics
 
