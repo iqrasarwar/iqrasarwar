@@ -26,7 +26,7 @@
 
 ## Contribution Graph
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iqrasarwar&theme=react-dark)](https://github.com/iqrasarwar)
+[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iqrasarwar&theme=react-dark&area=true)](https://github.com/iqrasarwar)
 
 ## Tech Stack
 
