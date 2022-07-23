@@ -74,6 +74,6 @@
 	<br />
 </p>
 
-<p align = "center">
+<div align = "center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!)](https://git.io/typing-svg)
-</p>
+</div>
