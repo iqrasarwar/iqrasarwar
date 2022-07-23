@@ -72,8 +72,7 @@
 		<img alt="Iqra Sarwar| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<br />
-</p>
-
-<h2 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!)](https://git.io/typing-svg)
-</h2>
+</p>     
+ <h2 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
+   </h2>
