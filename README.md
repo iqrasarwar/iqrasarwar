@@ -4,10 +4,10 @@
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
 - 🔭 I am currently working on MERN Stack.
-- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development
-- 👯 I am looking to collaborate on Web Development Projects
-- 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible
-- 📢 I Love to read books, teach and motivate my fellows
+- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
+- 👯 I am looking to collaborate on Web Development Projects.
+- 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible.
+- 📢 I Love to read books, teach and motivate my fellows.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
@@ -74,4 +74,6 @@
 	<br />
 </p>
 
+<p align = "center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!)](https://git.io/typing-svg)
+</p>
