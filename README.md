@@ -3,7 +3,7 @@
 
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on BlockChain & MERN Stack.
+- 🔭 I am currently working on MERN Stack.
 - 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible.
