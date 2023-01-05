@@ -1,5 +1,5 @@
 
-# Hello World, I'm Iqra Sarwar 👋
+# Hello World, I am Iqra Sarwar 👋
 
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
