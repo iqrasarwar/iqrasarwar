@@ -14,5 +14,5 @@ jobs:
            # Use this username's contribution graph  
            user_name: iqrasarwar
            # Text on contribution graph 
-           text: IQRA SARWAR
+           text: IQRASARWAR
       - uses: jasineri/simple-push-action@v1
