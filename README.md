@@ -1,6 +1,6 @@
 
 # Hello World, I am Iqra Sarwar 👋
-![image](https://user-images.githubusercontent.com/71145709/235434997-72135570-1ed9-4479-af8a-e0ab175abd82.png)
+![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
 
 ### I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
