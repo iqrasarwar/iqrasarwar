@@ -26,8 +26,7 @@
 </p>
 
 ## Contribution Graph
-
-[![My GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=iqrasarwar&theme=react-dark&area=true)](https://github.com/iqrasarwar](https://github-readme-activity-graph.cyclic.app/graph?username=iqrasarwar&theme=dracula)](https://github.com/iqrasarwar/github-readme-activity-graph))
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=iqrasarwar&show_icons=true&locale=en&layout=demo&theme=algolia](https://github-readme-activity-graph.cyclic.app/graph?username=iqrasarwar&theme=dracula)%5D(https://github.com/iqrasarwar/github-readme-activity-graph))" />
 
 ## Tech Stack
 
