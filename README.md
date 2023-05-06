@@ -26,7 +26,7 @@
 </p>
 
 ## Contribution Graph
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=iqrasarwar&show_icons=true&locale=en&layout=demo&theme=algolia](https://github-readme-activity-graph.cyclic.app/graph?username=iqrasarwar&theme=dracula)%5D(https://github.com/iqrasarwar/github-readme-activity-graph))" />
+![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Tech Stack
 
