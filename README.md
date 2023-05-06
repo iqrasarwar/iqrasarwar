@@ -26,7 +26,7 @@
 </p>
 
 ## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
 
 ## Tech Stack
 
