@@ -8,7 +8,7 @@
 - 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible.
-- 📢 I Love to read books, teach and motivate my fellows.
+- 📢 I Love to read books, and learn new technologies.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
