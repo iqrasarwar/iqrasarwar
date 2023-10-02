@@ -65,8 +65,8 @@
 	<a href="https://www.linkedin.com/in/iqrasarwar/">
 		<img alt="Iqra Sarwar| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.codechef.com/users/iqrasarwar">
-		<img alt="Iqra Sarwar| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+	<a href="https://leetcode.com/iqrasarwar/">
+		<img alt="Iqra Sarwar| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 	</a>
 	<a href="https://github.com/iqrasarwar">
 		<img alt="Iqra Sarwar| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
