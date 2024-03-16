@@ -3,7 +3,7 @@
 ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
 
 ### I am a Software Engineer and Tech Enthusiast 
-- 🔭 I am currently working on Moodel, PHP and React.
+- 🔭 I am currently working on Raect, Moodle and PHP.
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2024 Goals: Contribute to open source and read self-help books.
 - 📢 I Love to read books, and learn new technologies.
