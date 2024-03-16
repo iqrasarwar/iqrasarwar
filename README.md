@@ -3,11 +3,9 @@
 ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
 
 ### I am a Software Engineer and Tech Enthusiast 
-- 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on PHP and React.
-- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
+- 🔭 I am currently working on Moodel, PHP and React.
 - 👯 I am looking to collaborate on Web Development Projects.
-- 🥅 2023 Goals: Contribute to open source and learn Full Stack Development as much as possible.
+- 🥅 2024 Goals: Contribute to open source and read self-help books.
 - 📢 I Love to read books, and learn new technologies.
 
 	<a  align="center">
