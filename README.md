@@ -4,7 +4,7 @@
 
 ### I am a Software Engineer and Tech Enthusiast 
 - 🔭 I am currently working on React, Moodle and PHP.
-- 👯 I am looking to collaborate on Web Development Projects.
+- 👯 I am looking to collaborate on Web Development and Data Engineering Projects.
 - 🥅 2025 Goals: Contribute to open source and read self-help books.
 - 📢 I Love to read books, and learn new technologies.
 
