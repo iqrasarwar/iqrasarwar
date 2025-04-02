@@ -1,35 +1,26 @@
-name: Track Project Column Movements
+name: Update Labels on Card Move
+
 on:
-  workflow_dispatch:
-  repository_dispatch:
-    types: [project-move]
+  project_card:
+    types:
+      - moved
 
 jobs:
-  track-move:
+  update_labels:
     runs-on: ubuntu-latest
     steps:
-      - name: Check project column movement
-        uses: actions/github-script@v6
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const issueNumber = context.payload.client_payload.issue_number;
-            const newColumn = context.payload.client_payload.new_column;
-            const repo = context.repo.repo;
-            const owner = context.repo.owner;
+          node-version: '18'
 
-            // Add label
-            await github.rest.issues.addLabels({
-              owner,
-              repo,
-              issue_number: issueNumber,
-              labels: [`moved-to-${newColumn}`]
-            });
+      - name: Install dependencies
+        run: npm install @octokit/rest
 
-            // Add comment
-            await github.rest.issues.createComment({
-              owner,
-              repo,
-              issue_number: issueNumber,
-              body: `This issue has been moved to **${newColumn}**`
-            });
+      - name: Update Labels
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node update-labels.js
