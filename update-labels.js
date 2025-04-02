@@ -2,8 +2,8 @@ const { Octokit } = require('@octokit/rest');
 
 async function run() {
   const octokit = new Octokit({
-    auth: process.env.GITHUB_TOKEN,
-  });
+  auth: process.env.PROJECT_BOARD_TOKEN,
+});
 
   const payload = require(process.env.GITHUB_EVENT_PATH);
 
