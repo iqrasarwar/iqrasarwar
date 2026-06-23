@@ -19,8 +19,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **React, Moodle, and PHP**
-- 🤝 Open to collaborate on **Web Development** & **Data Engineering** projects
+- 🔭 Currently working with **Snowflake, Hex, SQL and Python**
+- 🤝 Open to collaborate on **Data Engineering** projects
 - 📚 2025 Goals: *Contribute to open source & read more self-help books*
 - 💡 Passionate about learning new technologies and reading books
 
