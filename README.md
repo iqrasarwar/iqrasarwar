@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Iqra Sarwar 👋</h1>
 <p align="center">
-  <b>Software Engineer | Tech Enthusiast | Lifelong Learner</b>
+  <b>Data Engineer | Tech Enthusiast | Lifelong Learner</b>
 </p>
 
 <p align="center">
